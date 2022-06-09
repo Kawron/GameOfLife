@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.22)
+project(game_of_life)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(game_of_life main.cpp CellMap.cpp CellMap.h Cell.cpp Cell.h Vector2d.cpp Vector2d.h)
+
+INCLUDE(FindPkgConfig)
+
+PKG_SEARCH_MODULE(SDL2 REQUIRED sdl2)
+PKG_SEARCH_MODULE(SDL2IMAGE REQUIRED SDL2_image>=2.0.0)
+
+INCLUDE_DIRECTORIES(${SDL2_INCLUDE_DIRS} ${SDL2IMAGE_INCLUDE_DIRS})
+TARGET_LINK_LIBRARIES(${PROJECT_NAME} ${SDL2_LIBRARIES} ${SDL2IMAGE_LIBRARIES})

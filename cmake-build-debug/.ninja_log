@@ -1,0 +1,13 @@
+# ninja log v5
+0	577	1654434074801318385	CMakeFiles/game_of_life.dir/main.cpp.o	940786f00d1011c6
+2	232	1653914078304077094	CMakeFiles/game_of_life.dir/Vector2d.cpp.o	12514aaee430584b
+1	465	1654430330710821253	CMakeFiles/game_of_life.dir/Cell.cpp.o	8758c9091738bd0a
+577	648	1654434074873325438	game_of_life	907f0d1fecb94c5b
+0	308	1654433207687197342	CMakeFiles/game_of_life.dir/CellMap.cpp.o	892743edd3dee52e
+2	340	1654788008675697250	CMakeFiles/game_of_life.dir/Vector2d.cpp.o	12514aaee430584b
+1	386	1654788008719696873	CMakeFiles/game_of_life.dir/Cell.cpp.o	8758c9091738bd0a
+1	512	1654788008847695778	CMakeFiles/game_of_life.dir/CellMap.cpp.o	892743edd3dee52e
+1	706	1654788009039694135	CMakeFiles/game_of_life.dir/main.cpp.o	940786f00d1011c6
+706	775	1654788009111693520	game_of_life	907f0d1fecb94c5b
+1	500	1654788043615398358	CMakeFiles/game_of_life.dir/main.cpp.o	940786f00d1011c6
+500	572	1654788043687397743	game_of_life	907f0d1fecb94c5b
