@@ -1,5 +1,7 @@
 # This is my implementation of Conway Game of Life
 
+[WIKIPEDIA](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 ## In order to run this program you must install sdl2
 
 ## Controls

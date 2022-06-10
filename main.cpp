@@ -65,7 +65,7 @@ int main() {
     surface = SDL_GetWindowSurface(window);
 
     CellMap cellMap = CellMap(cellMapWidth, cellMapHeight);
-//    cellMap.initialize();
+    cellMap.initialize();
 
     SDL_Event event;
     int tick_rate = INIT_TICK_RATE;

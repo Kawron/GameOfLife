@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/game_of_life.dir/main.cpp.o CMakeFiles/game_of_life.dir/CellMap.cpp.o CMakeFiles/game_of_life.dir/Cell.cpp.o CMakeFiles/game_of_life.dir/Vector2d.cpp.o -o game_of_life  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_image 

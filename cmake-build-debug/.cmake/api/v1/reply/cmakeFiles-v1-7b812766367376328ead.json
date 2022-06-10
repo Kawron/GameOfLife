@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -514,6 +519,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/snap/clion/193/bin/cmake/linux/share/cmake-3.22/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -723,8 +743,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/karol/CLionProjects/game-of-life/cmake-build-debug",
-		"source" : "/home/karol/CLionProjects/game-of-life"
+		"build" : "/home/karol/CLionProjects/GameOfLife/cmake-build-debug",
+		"source" : "/home/karol/CLionProjects/GameOfLife"
 	},
 	"version" : 
 	{

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/karol/CLionProjects/game-of-life/cmake-build-debug",
-		"source" : "/home/karol/CLionProjects/game-of-life"
+		"build" : "/home/karol/CLionProjects/GameOfLife/cmake-build-debug",
+		"source" : "/home/karol/CLionProjects/GameOfLife"
 	},
 	"version" : 
 	{
